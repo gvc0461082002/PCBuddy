@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "detect-computer-parts",
+  "private_key_id": "bfacd847a6aa2eaee2ba4765a5e4cffafce8859a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8d9kcsjfVf9Ww\nWFKvBJ8IbrGrXgeett6WuZ/pIvPsVz9aHb5Rz+MrRAkqCAS1SwzVgyFR7xXXzyvB\nUZKEac9Zt2JCjlQ9q6TPqowAbT2j+aL1wLzozfgQgKr7bz8wGIGfm8fC8efH021Z\nqdgac1sBComGq4OOdx8/NYjwYHZousTG3VQ0Jm8uB02zPP1f2mj6sOv7xYVt3K6E\nCbPA7no9gwZWCNH5ZiAwZCimR/9PKRVLyrYbvr7XbC9t9fxeiKuS2XOM/dZ+8pxt\nCqdbg953Q0+9NWOBW5GkRNDFPdmo1FnOOFIEJcU1WqNfxznG2mO4Il1K9sUl7HWP\nywuKXax3AgMBAAECggEAE6JatIIejff035u79W7CUKMTkFpJ6e98LfClp6iUB9Wp\nDG7X0ncZX/sFB2Nxdh+c9Stlj78cI/D5yniAjpnlV5/itTNVtF0K3PWUA0FeMBSE\nNR0AsTIv+ywkY/BZgV20N1gHzhfcgTVWCYbHtC27V9bsr+JzYKapUzD1FLG/9DX+\n7qX9v4i7WvRfdTc47BAoIRixnZz44v+Ma9E8gXP5w6/dwzwq9058t0ZXAMwbl1BI\npH1EWlAVRbJJQ0JBHKQHeAwC73HfjiGHQxT6y7c1wy3321yqxD/v/Btmpd43016R\n5aq13tvU/TZR0tbqPYsGlvssJMRcldrTOTWWxGVYMQKBgQDw6/raJStyiH9rUO2u\n7BjABZNGH0K1zQGgXs5R9zQSkfim90VBSEGKL+rYyRUn6sAAQ2hamIO2eLjCUvrz\nNs+VXql17GrlcH/K/MjP0tudLWa6pdNAeUM2uwMaD6nim/skeEwBrOTTe3LrPVPt\nMujP4vZ6VOM35/IV43hxQAE+ZwKBgQDIQ3ZYB80AvtAakU21Lc5J6nR6thzEaxb1\nDBqntbmcAfGeOjosp7buAzV9tz/DQpgj+7IFvSUJ1yvmiFqnaJW0qBr02t4oTkgF\nZyya+Kyy9cT/FBoCc4MKICd+rlitcYJD5MudzcTldqoOhJ+KbZ0FMymh1X4eh1wj\n3dx0m683cQKBgQDomVw6SpKU5HXofVzMegM3OOrEU6ALd97vHzkg54LtvuKLCMZj\nTciBCtw46oKzZDB00J+qf/8CJ7FxY74HHM7zjk4bnOJjm+a1arLR+uiu6kt5Pmoj\noC+lYo6PFbpWH3Qr9LylDXBrQY9k0HP72R/uvVhsKRKqQhR2z4PUCxBoVwKBgHGh\nZcr5Uib0HhyVCeSdwwlJ0SG3p4cDxJjyb0Vt5Y1RxQkkvNGNsExI4dcdXT6r0KvK\nKu76rcNxpeU+xUFsJFXHdNQuRBPWpyL5seOU6lj4/vhFLaTqahYavI4y2vo/B80C\nS06U7P3OYRuvwN7I52mF6D99Zfxoja2EO4ymsbrhAoGBAMDpwYWLW0T87XYOHZ2F\nEaFbiCFrseuph5cc5zc3Od0Yn+2XvS3DtxiUQO7CYAfoM+bNkIaAY8UL2iWjtjzE\nwT3Nyc56rivF1f36navp71XRCxI3MbOz7p6vGOzGh7z7nteHHtdAPdk5SssYrP+g\nVdEG7ATxW+cANiEfO618zZM6\n-----END PRIVATE KEY-----\n",
+  "client_email": "detect-computer-parts@detect-computer-parts.iam.gserviceaccount.com",
+  "client_id": "102159406170018479144",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/detect-computer-parts%40detect-computer-parts.iam.gserviceaccount.com"
+}
